@@ -1,5 +1,6 @@
 import java.util.*;
-public class Class1 {public static void main(String[] args) {
+public class tax {
+        public static void main(String[] args) {
         // tax calculator
         Scanner sc = new Scanner(System.in);
 
